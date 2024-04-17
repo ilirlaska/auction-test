@@ -1,3 +1,6 @@
+Ive already create 2 users with data for testing
+[{username:admini, password:admini},{username:admini666, password:admini666}]
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
